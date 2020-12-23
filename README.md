@@ -30,4 +30,20 @@ anti-affinity groups.
  
  uses pods - which is basically a container (or set of containers) that is being managed by kubernetes
  
+ 
+ 
+ ### Terraforming to make machines for k8s
+ 
+ I will need a bunch of hosts
+ 
+ I will need networking
+ 
+ I will need some ports open for networking
+ 
+ I will need some ports open for etcd networking
+ 
+ 
+ 
+ 
+ 
  I will want to have a service, which is a way of grouping pods together into 1 object
